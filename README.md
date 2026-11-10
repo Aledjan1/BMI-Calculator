@@ -54,11 +54,11 @@ During this project, I practiced:
 
 ## Live Demo
 
-Add your GitHub Pages URL here.
+https://aledjan1.github.io/BMI-Calculator/
 
 ## Author
 
-GitHub: [aledjan1](https://github.com/aledjan1)
+GitHub: https://github.com/aledjan1
 
 ## Disclaimer
 
